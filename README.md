@@ -10,7 +10,7 @@
  
  - 💬 Ask me about **Web development**
  
- - 📫 How to reach me: **Sebastiansegura260@gmail.com or [LinkedIn](www.linkedin.com/in/corodev**
+ - 📫 How to reach me: **coronadojohan123@gmail.com or [LinkedIn](www.linkedin.com/in/corodev**
  
  
  ## 💻 Tech Preferences
